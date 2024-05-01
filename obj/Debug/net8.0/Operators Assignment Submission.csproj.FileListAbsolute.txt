@@ -1,0 +1,14 @@
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.exe
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.deps.json
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.runtimeconfig.json
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.dll
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.pdb
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.AssemblyInfoInputs.cache
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.AssemblyInfo.cs
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.dll
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\refint\Operators Assignment Submission.dll
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.pdb
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.genruntimeconfig.cache
+C:\Users\burgh\Desktop\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\ref\Operators Assignment Submission.dll
